@@ -1,0 +1,7 @@
+.container{
+  position: relative;
+}
+
+.container .content{
+  margin: 5.5rem 16rem .5rem .5rem;
+}
